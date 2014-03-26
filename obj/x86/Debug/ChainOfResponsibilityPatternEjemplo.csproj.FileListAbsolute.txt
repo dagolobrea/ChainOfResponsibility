@@ -1,0 +1,5 @@
+c:\users\se08865\documents\visual studio 2010\Projects\ChainOfResponsibilityPatternEjemplo\ChainOfResponsibilityPatternEjemplo\bin\Debug\ChainOfResponsibilityPatternEjemplo.exe
+c:\users\se08865\documents\visual studio 2010\Projects\ChainOfResponsibilityPatternEjemplo\ChainOfResponsibilityPatternEjemplo\bin\Debug\ChainOfResponsibilityPatternEjemplo.pdb
+c:\users\se08865\documents\visual studio 2010\Projects\ChainOfResponsibilityPatternEjemplo\ChainOfResponsibilityPatternEjemplo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\se08865\documents\visual studio 2010\Projects\ChainOfResponsibilityPatternEjemplo\ChainOfResponsibilityPatternEjemplo\obj\x86\Debug\ChainOfResponsibilityPatternEjemplo.exe
+c:\users\se08865\documents\visual studio 2010\Projects\ChainOfResponsibilityPatternEjemplo\ChainOfResponsibilityPatternEjemplo\obj\x86\Debug\ChainOfResponsibilityPatternEjemplo.pdb
